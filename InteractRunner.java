@@ -30,7 +30,7 @@ public class InteractRunner {
                         System.out.println("Sub Result is: " + calc.getSubResult());
                         break;
                     case "/":
-                        System.out.println("Sub Result is: " + calc.getDivResult());
+                        System.out.println("Div Result is: " + calc.getDivResult());
                         break;
                 }
                 calc.cleanResult();
