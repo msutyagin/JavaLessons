@@ -1,1 +1,1 @@
-# javalearning
+# MY Java Lessons for JavaJunior
